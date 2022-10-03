@@ -1,0 +1,7 @@
+Cache:
+  Use: true
+  TimeInSeconds: 60
+PerWorld:
+  Enabled: false
+  EnabledWorlds:
+    - world

@@ -1,0 +1,6 @@
+main: de.simonsator.clans.disablefriendlyfire.DFFCMain
+name: Clans-Disable-Friendly-Fire
+version: ${project.version}
+author: Simonsator
+depend: [ Clans-Spigot-Part ]
+api-version: 1.13
